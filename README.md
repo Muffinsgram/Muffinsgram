@@ -52,6 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Muffinsgram&show_icons=true&theme=radical&hide_border=true" alt="Genel İstatistikler" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muffinsgram&layout=compact&theme=radical&hide_border=true" alt="En Çok Kullanılan Diller" height="165" />
 </div>
-<div>
+<div align="center">
     <img src="https://streak-stats.demolab.com?user=Muffinsgram&theme=radical&hide_border=true" alt="Muffinsgram GitHub Streak" />
 </div>
