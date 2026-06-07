@@ -16,6 +16,16 @@
 
 ---
 
+### Beni Takip Et
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kullaniciadiniz)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@kanaliniz)
+📸 Instagram: [Instagram Hesabım](https://instagram.com/Muffinsgram)
+
+▶️ YouTube: [YouTube Kanalım](https://youtube.com/@Muffinsgram)
+
+---
+
 ### 🛠️ Teknolojiler ve Yetenekler
 
 **Masaüstü & Arka Plan:**
