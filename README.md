@@ -18,6 +18,7 @@
 
 ### Beni Takip Et
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Muffinsgram)
+
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Muffinsgram)
 
 ---
