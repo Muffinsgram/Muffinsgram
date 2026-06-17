@@ -16,6 +16,24 @@
 
 ---
 
+### 🌐 Google Chrome Eklentilerim
+
+Günlük kullanımı kolaylaştıran ve sosyal medya deneyimini geliştiren Chrome eklenteleri geliştiriyorum. Chrome Web Store üzerinden eklentilerimi keşfedebilir, kullanabilir ve geri bildirimlerinizle gelişimine katkıda bulunabilirsiniz. 🚀
+
+<p align="left">
+  <a href="https://chromewebstore.google.com/detail/mfjplgiihbgnhgdiniplpnhoidijgbba">
+    <img src="https://img.shields.io/badge/IG%20Tracker%20Pro-Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="IG Tracker Pro" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://chromewebstore.google.com/detail/mofnngbhgaoaofibfmdijkgppnnknohg">
+    <img src="https://img.shields.io/badge/IG%20Reels%20Pro-Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="IG Reels Pro" />
+  </a>
+</p>
+
+---
+
 ### Beni Takip Et
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Muffinsgram)
 
