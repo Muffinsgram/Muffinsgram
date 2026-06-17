@@ -27,7 +27,7 @@
 
 Projelerimi beğeniyor ve gelişimime katkıda bulunmak istiyorsan Patreon üzerinden bana destek olabilirsin. Her destek, daha iyi projeler üretmem ve yeni teknolojiler öğrenmem için büyük bir motivasyon kaynağıdır. ❤️
 
-[![Patreon](https://img.shields.io/badge/Patreon-Destek_Ol-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](PATREON_LINKIN_BURAYA)
+[![Patreon](https://img.shields.io/badge/Patreon-Destek_Ol-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/cw/Muffinsgram)
 
 ---
 
